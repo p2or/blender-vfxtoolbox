@@ -40,7 +40,8 @@ Selects all children of a parent and makes them selectable.
 
 #### Find Object Sequence
 Selects all objects in the scene by the given search string (case sensitive).  
-**cube** selects cube_001, cube_002 and cube_003.
+- **cube** selects **cube_001**, **cube.002**, **cube003**
+- **cube_** selects **cube_001** but not **cube.002** or **cube003**
 
 #### Rename Selection
 Renames selection as object sequence. The format can be determined by the number of hash signs.
