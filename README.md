@@ -71,6 +71,8 @@ Creates empties by the position of selected vertices.
 #### Empty in Center of Selection (Editmode)
 Creates an empty in the center position of the selected vertices.
 
+### Empty Appearance
+
 #### Update Size
 Sets the size of selected empties.
 
