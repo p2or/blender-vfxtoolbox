@@ -2,12 +2,6 @@
 
 Blender-vfxtoolbox was developed during the production of the short film [Senseless](https://vimeo.com/76863099).
 
-## Thanks
-
-- David Wiesner
-- Sebastian König
-- CoDEmanX
-
 ## Installation
 
 1. Go to User Preferences/Addons
@@ -103,6 +97,12 @@ Imports ascii animation data from other packages and creates a new empty with th
 
 - [Christian Brinkmann](http://www.zblur.de)
 - [David Wiesner](http://www.apphoria.com)
+
+## Thanks
+
+- David Wiesner
+- Sebastian König
+- CoDEmanX
 
 ## Todo
 
