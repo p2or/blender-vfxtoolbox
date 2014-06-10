@@ -45,8 +45,8 @@ Selects all objects in the scene by the given search string (case sensitive).
 
 #### Rename Selection
 Renames selection as object sequence. The format can be determined by the number of hash signs.
-- name_### returns name_001, name_002 ...  
-- name_#### returns name_0001, name_0002 ...
+- name_### *selects* name_001, name_002 ...  
+- name_#### *selects* name_0001, name_0002 ...
 
 #### Select Cameras & Empties
 Selects all cameras and empties in scene.
@@ -109,9 +109,4 @@ Imports ascii animation data from other packages and creates a new empty with th
 - Projection tools?
 
 
-=======
-blender-vfxtoolbox
-==================
 
-various helper for vfx tasks
->>>>>>> 7b0cffa8d2dcc17c80edcf17d7ea5cbd5f05f7bb
