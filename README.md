@@ -9,7 +9,7 @@ Blender-vfxtoolbox was developed during the production of the short film [Sensel
 - [Documentation](#documentation)
     - [Scene Building](#scene-building)
     - [Seek & Destroy](#seek--destroy)
-    - [Reconstruction](#Reconstruction)
+    - [Reconstruction](#reconstruction)
     - [Animation from Ascii File](#animation-from-ascii-file-ascii-tables)
 - [Authors](#authors)
 - [Thanks](#thanks)
