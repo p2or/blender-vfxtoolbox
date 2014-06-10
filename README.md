@@ -89,8 +89,8 @@ Imports ascii animation data from other packages and creates a new empty with th
 
 #### Supported Object Properties
 - Location, Rotation, Scale  
-- Energy & Color (if lamps are selected)  
-- Focal Length & Focus Distance (if cameras are selected)  
+- Energy & Color for Lamps
+- Focal Length & Focus Distance for Cameras
 
 #### Options
 - Change coloums of Ascii Table   
