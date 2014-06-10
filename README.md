@@ -1,8 +1,7 @@
 #blender-vfxtoolbox
 
-various helper for vfx tasks
+![vfx toolbox](http://zblur.de/github/vfxtoolbox/vfxtoolbox_151_ui-objectmode.jpg "vfxtoolbox 1.5.1 UI-Object Mode")
 
-## Information
 Blender-vfxtoolbox was developed during the production of the short film [Senseless](https://vimeo.com/76863099).
 
 ## Thanks
@@ -18,8 +17,6 @@ Blender-vfxtoolbox was developed during the production of the short film [Sensel
 1. Activate the addon via VFX category
 
 ## Documentation
-
-![vfx toolbox](http://zblur.de/github/vfxtoolbox/vfxtoolbox_151_ui-objectmode.jpg "vfxtoolbox 1.5.1 UI-Object Mode")
 
 #### Freeze Selection
 Disables the viewport selection of current objects.
