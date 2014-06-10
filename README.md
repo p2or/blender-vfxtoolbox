@@ -1,5 +1,4 @@
 #blender-vfxtoolbox
-various helper for vfx tasks
 
 ![vfx toolbox](http://zblur.de/github/vfxtoolbox/vfxtoolbox_151_ui-objectmode.jpg "vfxtoolbox 1.5.1 UI-Object Mode")
 
