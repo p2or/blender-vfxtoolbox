@@ -4,7 +4,7 @@ various helper for vfx tasks.
 ![vfx toolbox](http://zblur.de/github/vfxtoolbox/vfxtoolbox_151_ui-objectmode.jpg "vfxtoolbox 1.5.1 UI-Object Mode")
 
 ## Information
-The blender-vfxtoolbox was developed during the production of the short film [Senseless](https://vimeo.com/76863099).
+Blender-vfxtoolbox was developed during the production of the short film [Senseless](https://vimeo.com/76863099).
 
 ### Thanks
 
