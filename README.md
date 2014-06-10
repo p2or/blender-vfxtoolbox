@@ -97,7 +97,7 @@ Imports ascii animation data from other packages and creates a new empty with th
 - Focal Length & Focus Distance for Cameras
 
 #### Options ####
-- Change coloums of Ascii Table   
+- Change columns of Ascii Table   
 - Shift timeline starting point  
 - Offset animation keys  
 - Multiply all values  
