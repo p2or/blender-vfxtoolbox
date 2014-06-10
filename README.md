@@ -108,7 +108,5 @@ Imports ascii animation data from other packages and creates a new empty with th
 ## Todo
 
 - Export Animations
-- Projection tools?
-
 
 
