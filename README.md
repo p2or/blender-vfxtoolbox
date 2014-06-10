@@ -85,11 +85,11 @@ Changes the appearence of the selected empties to choosen type.
 
 ### Animation from Ascii File (ASCII tables) ###
 
-#### Apply to Selection ####
-Applies the data to the selected objects.
-
 #### Build Empty ####
 Imports ascii animation data from other packages and creates a new empty with the data.
+
+#### Apply to Selection ####
+Applies the data to the selected objects.
 
 #### Supported Object Properties ####
 - Location, Rotation, Scale  
