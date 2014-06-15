@@ -83,7 +83,7 @@ Sets the size of selected empties.
 #### Plain, Sphere etc. ###
 Changes the appearence of the selected empties to choosen type.
 
-### Animation from Ascii File (ASCII tables) ###
+### Animation from Ascii File (Ascii tables) ###
 
 #### Build Empty ####
 Imports ascii animation data from other packages and creates a new empty with the data.
@@ -117,6 +117,6 @@ Applies the data to the selected objects.
 
 ## Todo ##
 
-- Export Animations
+- Export Animations to Ascii
 
 
