@@ -38,7 +38,7 @@ Creates a new empty parent for the selection. It also disables the viewport sele
 Releases all children of the parent, apply their transformations and enables viewport selection.
 
 #### Select Childs ####
-Selects all children of a parent and makes them selectable.
+Finds all children of a parent and makes them selectable.
 
 ### Seek & Destroy ###
 
@@ -107,7 +107,7 @@ Applies the data to the selected objects.
 ## Authors ##
 
 - [Christian Brinkmann](http://www.zblur.de)
-- [David Wiesner](http://www.apphoria.com)
+- [David Wiesner](https://github.com/DavidWiesner)
 
 ## Thanks ##
 
