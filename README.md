@@ -19,7 +19,7 @@ Blender-vfxtoolbox was developed during the production of the short film [sensel
 
 1. Go to User Preferences/Addons
 1. Click install from File
-1. Activate the addon via VFX category
+1. Activate the Addon via VFX category
 
 ## Documentation ##
 
@@ -92,7 +92,7 @@ Imports ascii animation data from other packages and creates a new empty with th
 Applies the data to the selected objects.
 
 #### Supported Object Properties ####
-- Location, Rotation, Scale  
+- Location, Rotation, Scale for all Objects  
 - Energy & Color for Lamps
 - Focal Length & Focus Distance for Cameras
 
@@ -114,9 +114,4 @@ Applies the data to the selected objects.
 - David Wiesner
 - Sebastian König
 - CoDEmanX
-
-## Todo ##
-
-- Export Animations to Ascii
-
 
