@@ -1,6 +1,7 @@
 #blender-vfxtoolbox #
 
-Blender-vfxtoolbox was developed during the production of the short film [senseless](https://vimeo.com/76863099). 
+Blender-vfxtoolbox was developed during the production of the short film [senseless](https://vimeo.com/76863099). The main goal is to have a solid environment for better organizing and reconstructing vfx shots.     
+
 
 ![vfx toolbox](http://zblur.de/github/vfxtoolbox/vfxtoolbox_151_ui-objectmode.jpg "vfxtoolbox 1.5.1 UI-Object Mode")
 
@@ -13,7 +14,6 @@ Blender-vfxtoolbox was developed during the production of the short film [sensel
     - [Animation from Ascii File](#animation-from-ascii-file-ascii-tables)
 - [Authors](#authors)
 - [Thanks](#thanks)
-- [Todo](#todo)
 
 ## Installation ##
 
@@ -106,7 +106,7 @@ Applies the data to the selected objects.
 
 ## Authors ##
 
-- [Christian Brinkmann](http://www.zblur.de)
+- [Christian Brinkmann](https://vimeo.com/qwertz)
 - [David Wiesner](https://github.com/DavidWiesner)
 
 ## Thanks ##
