@@ -2,9 +2,8 @@
 
 Blender-vfxtoolbox was developed during the production of the short film [senseless](https://vimeo.com/76863099). The main goal is to have a solid environment for faster organizing and reconstructing vfx shots. In addition, it is possible to import human readable animation data from other packages or generated data and apply it to the existing objects.
 
-![vfx toolbox](http://zblur.de/github/vfxtoolbox/vfxtoolbox_151_ui-objectmode.jpg "vfxtoolbox 1.5.1 UI-Object Mode")
-
 ## Table of Contents ##
+
 - [Installation](#installation)
 - [Documentation](#documentation)
     - [Scene Building](#scene-building)
@@ -15,6 +14,8 @@ Blender-vfxtoolbox was developed during the production of the short film [sensel
 - [Thanks](#thanks)
 
 ## Installation ##
+
+![vfx toolbox](http://zblur.de/github/vfxtoolbox/vfxtoolbox_151_ui-objectmode.jpg "vfxtoolbox 1.5.1 UI-Object Mode")
 
 1. Go to User Preferences/Addons
 1. Click install from File
