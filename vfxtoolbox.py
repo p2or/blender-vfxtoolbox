@@ -1526,7 +1526,7 @@ class GroupReleaseMembersButton(bpy.types.Operator):
 
 class GroupSelectMembersButton(bpy.types.Operator):
     bl_idname = "vfxtoolbox.group_select_children"
-    bl_label = "Select Childs"
+    bl_label = "Select Children"
     bl_description = "Selects all children of a parent and make them selectable if not."
    
     def execute(self, context):
