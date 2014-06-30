@@ -38,7 +38,7 @@ Creates a new empty parent for the selection. It also disables the viewport sele
 #### Clear Parent ####
 Releases all children of the parent, apply their transformations and enables viewport selection.
 
-#### Select Childs ####
+#### Select Children ####
 Finds all children of a parent and makes them selectable.
 
 ### Seek & Destroy ###
