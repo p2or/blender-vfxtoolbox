@@ -1,11 +1,10 @@
-#blender-vfxtoolbox #
+# VFX Toolbox
 
-Blender-vfxtoolbox was developed during the production of the short film [senseless](https://vimeo.com/76863099). The goal is to develop a solid environment for a faster organization and reconstruction of vfx shots. Additionally, it provides the opportunity to import human readable animation data from other packages or generated data and apply it to the existing objects. 
-
+The development of VFX Toolbox started during the production of the short film [senseless](https://vimeo.com/76863099). The goal is to develop a solid environment to organize and reconstruct vfx shots. 
 
 ![vfx toolbox](http://zblur.de/github/vfxtoolbox/vfxtoolbox_151_ui-objectmode-2.jpg "vfxtoolbox 1.05.1 UI-Object Mode")
 
-## Table of Contents ##
+## Table of Contents
 
 - [Installation](#installation)
 - [Documentation](#documentation)
@@ -16,88 +15,88 @@ Blender-vfxtoolbox was developed during the production of the short film [sensel
 - [Authors](#authors)
 - [Thanks](#thanks)
 
-## Installation ##
+## Installation
 
-1. Go to User Preferences/Addons
-1. Click install from File
-1. Activate the Addon via VFX category
+1. Go to *User Preferences/Addons*
+1. Click *Install from File*
+1. Activate the Addon via *VFX* category
 
-## Documentation ##
+## Documentation
 
-#### Freeze Selection ####
+#### Freeze Selection
 Disables the viewport selection of current objects.
 
-#### Unfreeze All ####
+#### Unfreeze All
 Enables viewport selection of all objects in scene.
 
-### Scene Building ###
+### Scene Building
 
-#### Add Parent ####
+#### Add Parent
 Creates a new empty parent for the selection. It also disables the viewport selection of the new children.
 
-#### Clear Parent ####
+#### Clear Parent
 Releases all children of the parent, apply their transformations and enables viewport selection.
 
-#### Select Children ####
+#### Select Children
 Finds all children of a parent and makes them selectable.
 
-### Seek & Destroy ###
+### Seek & Destroy
 
-#### Find Object Sequence ####
+#### Find Object Sequence
 Selects all objects in the scene by the given search string (case sensitive).  
 - **cube** selects **cube_001**, **cube.002**, **cube003**
 - **cube_** selects **cube_001** but not **cube.002** or **cube003**
 
-#### Rename Selection ####
+#### Rename Selection
 Renames selection as object sequence. The format can be determined by the number of hash signs.
 - **name_###** returns **name_001**, **name_002** ...  
 - **name_####** returns **name_0001**, **name_0002** ...
 
-#### Select Cameras & Empties ####
+#### Select Cameras & Empties
 Selects all cameras and empties in scene.
 
-#### Select all Empties in Scene ####
+#### Select all Empties in Scene
 Selects all objects from by type camera and empty.
 
-#### Empties in Selection ####
+#### Empties in Selection
 Selects all empties in current selection.
 
-### Reconstruction ###
+### Reconstruction
 
-#### Connect 2 Empties ####
+#### Connect 2 Empties
 Creates a new polyline (connected vertices) by the positions of the selected empties.
 
-#### Pointcloud from Empties ####
+#### Pointcloud from Empties
 Creates a pointcloud by the positions of the selected empties.
 
-#### Empties from Vertices (Editmode) ####
+#### Empties from Vertices (Editmode)
 Creates empties by the position of selected vertices.
 
-#### Empty in Center of Selection (Editmode) ####
+#### Empty in Center of Selection (Editmode)
 Creates an empty in the center position of the selected vertices.
 
-### Empty Appearance ###
+### Empty Appearance
 
-#### Update Size ###
+#### Update Size
 Sets the size of selected empties.
 
-#### Plain, Sphere etc. ###
+#### Plain, Sphere etc.
 Changes the appearence of the selected empties to choosen type.
 
-### Animation from Ascii File (Ascii tables) ###
+### Animation from Ascii File (Ascii tables)
 
-#### Build Empty ####
+#### Build Empty 
 Imports ascii animation data from other packages and creates a new empty with the data.
 
-#### Apply to Selection ####
+#### Apply to Selection
 Applies the data to the selected objects.
 
-#### Supported Object Properties ####
+#### Supported Object Properties
 - Location, Rotation, Scale for all Objects  
 - Energy & Color for Lamps
 - Focal Length & Focus Distance for Cameras
 
-#### Options ####
+#### Options
 - Change columns of Ascii Table   
 - Shift timeline starting point  
 - Offset animation keys  
@@ -105,12 +104,12 @@ Applies the data to the selected objects.
 - Add values  
 
 
-## Authors ##
+## Authors
 
 - [Christian Brinkmann](https://vimeo.com/qwertz)
 - [David Wiesner](https://github.com/DavidWiesner)
 
-## Thanks ##
+## Thanks
 
 - David Wiesner
 - Sebastian König
